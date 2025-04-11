@@ -36,4 +36,4 @@ This session covered seven key areas of innovation across Google Cloud Storage, 
 * [Backup vault for immutable and indelible backups](https://cloud.google.com/backup-disaster-recovery/docs/concepts/backup-vault)
 
 ---
-*Find more takeaways: [https://github.com/knachiketa04/google-cloud-next-2025-storage-sessions](https://github.com/knachiketa04/google-cloud-next-2025-storage-sessions)*
+*Find more [takeaways](https://github.com/knachiketa04/google-cloud-next-2025-storage-sessions/tree/main/takeaways)*
